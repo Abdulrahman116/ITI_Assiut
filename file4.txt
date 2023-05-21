@@ -1,1 +1,7 @@
 This is the file after clone
+
+
+newfeature
+newfeature
+newfeature
+newfeature
